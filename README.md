@@ -70,8 +70,8 @@ Fraud transactions are extremely rare but involve **significantly higher transac
  **Color Theme:**  
 Slice Purple `#7F3DFF` + White Background  
 
- **Dashboard Preview:**  
-![Power BI Dashboard](https://drive.google.com/file/d/1714HyroxqanGupF38-2gdE_pV_XRHkzm/view?usp=sharing)
+**Dashboard Preview:**  
+[View Power BI Dashboard Screenshot](https://drive.google.com/file/d/1714HyroxqanGupF38-2gdE_pV_XRHkzm/view?usp=sharing)
 
 ---
 
